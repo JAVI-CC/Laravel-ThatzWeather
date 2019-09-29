@@ -1,0 +1,32 @@
+body {
+    background-image: url('../img/wallpaper.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Muli', sans-serif!important;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+
+
+.btn_size {
+    width: 100%;
+}
+
+.container_center {
+    width: 460px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-color-blue {
+    background-color: #035d80;
+}
+
+.table-dark td, .table-dark th, .table-dark thead th {
+    border-color: #035d80!important;
+}
